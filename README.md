@@ -9,9 +9,9 @@ Create Python programs to print the following patterns using `"*"`
 3. ⛰️ Pyramid Pattern
 
 
-# 📝 Assignment 2: Implement a Linked List in Python Using OOP and Delete the Nth Node
+## 📝 Assignment 2: Implement a Linked List in Python Using OOP and Delete the Nth Node
 
-## Create a Python program that implements a singly linked list using Object-Oriented Programming (OOP) principles.
+### Create a Python program that implements a singly linked list using Object-Oriented Programming (OOP) principles.
 
 Your implementation should include:
 
